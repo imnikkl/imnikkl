@@ -39,8 +39,8 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=imnikkl&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=777" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=imnikkl&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=777" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imnikkl&theme=transparent&hide_border=true&stroke=0000&ring=2F80ED&fire=2F80ED&currStreakNum=777" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnikkl&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=777" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=imnikkl&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=777" alt="Top Languages" />
 </div>
