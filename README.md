@@ -2,6 +2,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nichita!+%F0%9F%91%8B;Passionate+Developer;Building+AI+%26+Bots" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <a href="https://linkedin.com/in/imnikkl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://t.me/imnikkl"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=imnikkl&theme=transparent&no-frame=true&no-bg=true&margin-w=15" alt="imnikkl's Trophies" />
+  </a>
+</p>
+
 <br/>
 
 <p align="center">
