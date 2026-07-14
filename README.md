@@ -2,37 +2,35 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nichita!+%F0%9F%91%8B;Passionate+Developer;Building+AI+%26+Bots" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <em>Sunt un dezvoltator pasionat de construirea de arhitecturi complexe, automatizări și aplicații inteligente.<br>Îmi place să transform ideile în produse reale, de la web scraping și boți inteligenți până la aplicații mobile.</em>
-</p>
+<br/>
 
 <p align="center">
-  <a href="https://github.com/imnikkl"><img src="https://skillicons.dev/icons?i=python,js,ts,react,kotlin,cpp,docker,postgres,git,github,vscode,linux&perline=12" alt="Skills" /></a>
+  <a href="https://github.com/imnikkl"><img src="https://skillicons.dev/icons?i=laravel,php,flutter,nodejs,kotlin,python,js,ts,react,cpp,docker,postgres,git,github,vscode,linux&perline=16" alt="Skills" /></a>
 </p>
 
 ---
 
-### 🚀 Proiecte de Top
+### 🚀 Top Projects
 
 <table align="center" width="100%">
   <tr>
     <td width="50%">
       <h3>🤖 <a href="https://github.com/imnikkl/telegram-bot">Telegram AI Lead Bot</a></h3>
-      <p>Un bot avansat de Telegram pentru Real Estate conectat la <b>Gemini AI</b>, cu pipeline complet de Lead Management și Property Matching.</p>
+      <p>Advanced Telegram bot for Real Estate integrated with <b>Gemini AI</b>, featuring a complete Lead Management and Property Matching pipeline.</p>
     </td>
     <td width="50%">
       <h3>🕷️ <a href="https://github.com/imnikkl/n8nscrap">n8n Advanced Scraping</a></h3>
-      <p>Arhitectură complexă de web scraping folosind <b>n8n, Playwright, PostgreSQL și GraphQL</b>.</p>
+      <p>Complex web scraping architecture built with <b>n8n, Playwright, PostgreSQL, and GraphQL</b>.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>📱 <a href="https://github.com/imnikkl/gptwatch">GPT Watch</a></h3>
-      <p>Aplicație mobilă de Android dezvoltată nativ în <b>Kotlin</b>, care interacționează cu AI (Groq & DeepSeek).</p>
+      <p>Native Android mobile application built with <b>Kotlin</b>, interacting with AI via Groq & DeepSeek.</p>
     </td>
     <td width="50%">
       <h3>💻 <a href="https://github.com/imnikkl/pythonAPPS">Python CV Apps</a></h3>
-      <p>Aplicații bazate pe Computer Vision folosind <b>MediaPipe</b> (Hand Landmarker) și machine learning.</p>
+      <p>Computer Vision applications utilizing <b>MediaPipe</b> (Hand Landmarker) and machine learning.</p>
     </td>
   </tr>
 </table>
