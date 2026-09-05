@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 185" width="100%" height="100%">
+  <defs>
+    <linearGradient id="card-grad-2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#070A12" />
+    </linearGradient>
+    <linearGradient id="border-grad-2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34D399" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#059669" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.2" />
+    </linearGradient>
+    <radialGradient id="glow-2" cx="0%" cy="0%" r="55%">
+      <stop offset="0%" stop-color="#059669" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#059669" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="438" height="183" rx="16" fill="url(#card-grad-2)" stroke="url(#border-grad-2)" stroke-width="1.5" />
+  <rect x="1" y="1" width="438" height="183" rx="16" fill="url(#glow-2)" />
+
+  <g transform="translate(24, 22)">
+    <rect width="135" height="22" rx="11" fill="#1E293B" fill-opacity="0.9" stroke="#34D399" stroke-opacity="0.3" stroke-width="1" />
+    <circle cx="10" cy="11" r="3.5" fill="#34D399" />
+    <text x="20" y="15" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="700" fill="#34D399" letter-spacing="0.5">02 / DATA PIPELINES</text>
+  </g>
+
+  <g transform="translate(396, 22)">
+    <circle cx="10" cy="10" r="12" fill="#1E293B" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+    <path d="M7 13L13 7M13 7H8.5M13 7V11.5" stroke="#94A3B8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="24" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#F8FAFC">n8n Advanced Scraping</text>
+
+  <text x="24" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="400" fill="#94A3B8">High-performance web scraping pipeline built</text>
+  <text x="24" y="117" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="400" fill="#94A3B8">with n8n, Playwright, PostgreSQL &amp; GraphQL.</text>
+
+  <g transform="translate(24, 138)">
+    <rect x="0" y="0" width="46" height="24" rx="6" fill="#1E293B" stroke="#334155" stroke-width="1" />
+    <text x="23" y="16" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#FB7185">n8n</text>
+
+    <rect x="54" y="0" width="80" height="24" rx="6" fill="#1E293B" stroke="#334155" stroke-width="1" />
+    <text x="94" y="16" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#34D399">Playwright</text>
+
+    <rect x="142" y="0" width="85" height="24" rx="6" fill="#1E293B" stroke="#334155" stroke-width="1" />
+    <text x="184.5" y="16" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#60A5FA">PostgreSQL</text>
+
+    <rect x="235" y="0" width="70" height="24" rx="6" fill="#1E293B" stroke="#334155" stroke-width="1" />
+    <text x="270" y="16" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#E879F9">GraphQL</text>
+  </g>
+</svg>
