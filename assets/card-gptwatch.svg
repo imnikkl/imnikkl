@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 185" width="100%" height="100%">
+  <defs>
+    <linearGradient id="card-grad-3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#070A12" />
+    </linearGradient>
+    <linearGradient id="border-grad-3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.2" />
+    </linearGradient>
+    <radialGradient id="glow-3" cx="0%" cy="0%" r="55%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="438" height="183" rx="16" fill="url(#card-grad-3)" stroke="url(#border-grad-3)" stroke-width="1.5" />
+  <rect x="1" y="1" width="438" height="183" rx="16" fill="url(#glow-3)" />
+
+  <g transform="translate(24, 22)">
+    <rect width="160" height="22" rx="11" fill="#1E293B" fill-opacity="0.9" stroke="#A855F7" stroke-opacity="0.3" stroke-width="1" />
+    <circle cx="10" cy="11" r="3.5" fill="#A855F7" />
+    <text x="20" y="15" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="700" fill="#C084FC" letter-spacing="0.5">03 / MOBILE DEVELOPMENT</text>
+  </g>
+
+  <g transform="translate(396, 22)">
+    <circle cx="10" cy="10" r="12" fill="#1E293B" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+    <path d="M7 13L13 7M13 7H8.5M13 7V11.5" stroke="#94A3B8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="24" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#F8FAFC">GPT Watch</text>
+
+  <text x="24" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="400" fill="#94A3B8">Native Android mobile app built with Kotlin,</text>
+  <text x="24" y="117" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="400" fill="#94A3B8">interacting with LLMs via Groq &amp; DeepSeek.</text>
+
+  <g transform="translate(24, 138)">
+    <rect x="0" y="0" width="56" height="24" rx="6" fill="#1E293B" stroke="#334155" stroke-width="1" />
+    <text x="28" y="16" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#A78BFA">Kotlin</text>
+
+    <rect x="64" y="0" width="65" height="24" rx="6" fill="#1E293B" stroke="#334155" stroke-width="1" />
+    <text x="96.5" y="16" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#4ADE80">Android</text>
+
+    <rect x="137" y="0" width="52" height="24" rx="6" fill="#1E293B" stroke="#334155" stroke-width="1" />
+    <text x="163" y="16" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#FB923C">Groq</text>
+
+    <rect x="197" y="0" width="76" height="24" rx="6" fill="#1E293B" stroke="#334155" stroke-width="1" />
+    <text x="235" y="16" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#38BDF8">DeepSeek</text>
+  </g>
+</svg>
