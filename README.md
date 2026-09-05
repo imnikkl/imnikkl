@@ -1,11 +1,11 @@
 <!-- Profile README for imnikkl -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1D4ED8,100:06B6D4&amp;height=230&amp;section=header&amp;text=NICHITA&amp;fontSize=68&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;desc=DEVELOPER%20%7C%20AI%20%26%20AUTOMATION&amp;descSize=17&amp;descAlignY=56&amp;animation=fadeIn" alt="Nichita - Developer, AI and Automation" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=230&section=header&text=NICHITA&fontSize=68&fontColor=FFFFFF&fontAlignY=36&desc=DEVELOPER%20%7C%20AI%20%26amp%3B%20AUTOMATION&descSize=17&descAlignY=56&animation=fadeIn" alt="Nichita - Developer, AI and Automation" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3200&amp;pause=1400&amp;color=2F80ED&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=Turning+ideas+into+working+software.;Building+AI-powered+bots+and+apps.;Automating+the+repetitive." alt="Turning ideas into working software. Building AI-powered bots and apps. Automating the repetitive." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=1400&color=2F80ED&center=true&vCenter=true&width=600&height=45&lines=Turning+ideas+into+working+software.;Building+AI-powered+bots+and+apps.;Automating+the+repetitive." alt="Turning ideas into working software. Building AI-powered bots and apps. Automating the repetitive." />
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/imnikkl"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://t.me/imnikkl"><img src="https://img.shields.io/badge/Telegram-2563EB?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/imnikkl"><img src="https://img.shields.io/badge/Telegram-2563EB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   &nbsp;
-  <a href="https://github.com/imnikkl?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_code-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
+  <a href="https://github.com/imnikkl?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 </p>
 
 <br />
@@ -67,17 +67,17 @@
 
 <p align="center">
   <b>Web &amp; backend</b><br /><br />
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,php,laravel&amp;theme=dark&amp;perline=6" alt="React, TypeScript, JavaScript, Node.js, PHP, Laravel" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,php,laravel&theme=dark&perline=6" alt="React, TypeScript, JavaScript, Node.js, PHP, Laravel" />
 </p>
 
 <p align="center">
   <b>Mobile &amp; AI</b><br /><br />
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter,python,cpp&amp;theme=dark&amp;perline=4" alt="Kotlin, Flutter, Python, C++" />
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,python,cpp&theme=dark&perline=4" alt="Kotlin, Flutter, Python, C++" />
 </p>
 
 <p align="center">
   <b>Tools &amp; data</b><br /><br />
-  <img src="https://skillicons.dev/icons?i=docker,postgres,git,github,vscode,linux&amp;theme=dark&amp;perline=6" alt="Docker, PostgreSQL, Git, GitHub, VS Code, Linux" />
+  <img src="https://skillicons.dev/icons?i=docker,postgres,git,github,vscode,linux&theme=dark&perline=6" alt="Docker, PostgreSQL, Git, GitHub, VS Code, Linux" />
 </p>
 
 <br />
@@ -87,14 +87,14 @@
 <p align="center">
   <a href="https://github.com/imnikkl">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=imnikkl&amp;show_icons=true&amp;card_width=495&amp;bg_color=0D1117&amp;title_color=60A5FA&amp;text_color=C9D1D9&amp;icon_color=60A5FA&amp;border_color=30363D&amp;border_radius=12" />
-      <img width="400" src="https://github-stats-extended.vercel.app/api?username=imnikkl&amp;show_icons=true&amp;card_width=495&amp;bg_color=FFFFFF&amp;title_color=2563EB&amp;text_color=334155&amp;icon_color=2563EB&amp;border_color=E2E8F0&amp;border_radius=12" alt="Nichita's GitHub statistics" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=imnikkl&show_icons=true&card_width=495&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&icon_color=60A5FA&border_color=30363D&border_radius=12" />
+      <img width="400" src="https://github-stats-extended.vercel.app/api?username=imnikkl&show_icons=true&card_width=495&bg_color=FFFFFF&title_color=2563EB&text_color=334155&icon_color=2563EB&border_color=E2E8F0&border_radius=12" alt="Nichita's GitHub statistics" />
     </picture>
   </a>
   <a href="https://github.com/imnikkl">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=imnikkl&amp;theme=dark&amp;background=0D1117&amp;border=30363D&amp;ring=60A5FA&amp;fire=38BDF8&amp;currStreakLabel=60A5FA&amp;border_radius=12" />
-      <img width="400" src="https://streak-stats.demolab.com/?user=imnikkl&amp;theme=default&amp;background=FFFFFF&amp;border=E2E8F0&amp;ring=2563EB&amp;fire=0EA5E9&amp;currStreakLabel=2563EB&amp;border_radius=12" alt="Nichita's GitHub contribution streak" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=imnikkl&theme=dark&background=0D1117&border=30363D&ring=60A5FA&fire=38BDF8&currStreakLabel=60A5FA&border_radius=12" />
+      <img width="400" src="https://streak-stats.demolab.com/?user=imnikkl&theme=default&background=FFFFFF&border=E2E8F0&ring=2563EB&fire=0EA5E9&currStreakLabel=2563EB&border_radius=12" alt="Nichita's GitHub contribution streak" />
     </picture>
   </a>
 </p>
@@ -104,8 +104,8 @@
   <br />
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=imnikkl&amp;layout=compact&amp;langs_count=8&amp;card_width=495&amp;bg_color=0D1117&amp;title_color=60A5FA&amp;text_color=C9D1D9&amp;border_color=30363D&amp;border_radius=12" />
-      <img width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=imnikkl&amp;layout=compact&amp;langs_count=8&amp;card_width=495&amp;bg_color=FFFFFF&amp;title_color=2563EB&amp;text_color=334155&amp;border_color=E2E8F0&amp;border_radius=12" alt="Most-used languages across Nichita's repositories" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=imnikkl&layout=compact&langs_count=8&card_width=495&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&border_color=30363D&border_radius=12" />
+      <img width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=imnikkl&layout=compact&langs_count=8&card_width=495&bg_color=FFFFFF&title_color=2563EB&text_color=334155&border_color=E2E8F0&border_radius=12" alt="Most-used languages across Nichita's repositories" />
     </picture>
   </p>
 </details>
@@ -132,5 +132,5 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1D4ED8,100:06B6D4&amp;height=90&amp;section=footer" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=90&section=footer" alt="" />
 </p>
