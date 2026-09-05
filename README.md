@@ -26,40 +26,23 @@
 <h2 align="center">Selected work</h2>
 <p align="center">A few things I've been building.</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p><sub><b>01 / AI &amp; AUTOMATION</b></sub></p>
-      <h3><a href="https://github.com/imnikkl/telegram-bot">Telegram AI Lead Bot</a></h3>
-      <p>A real-estate assistant that combines <b>Gemini AI</b> with lead management and property matching inside Telegram.</p>
-      <p><code>Gemini AI</code> <code>Telegram</code> <code>Lead management</code></p>
-      <p><a href="https://github.com/imnikkl/telegram-bot"><b>Explore project &rarr;</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <p><sub><b>02 / DATA PIPELINES</b></sub></p>
-      <h3><a href="https://github.com/imnikkl/n8nscrap">n8n Advanced Scraping</a></h3>
-      <p>A web-scraping pipeline combining <b>n8n</b> workflows, browser automation, PostgreSQL, and GraphQL.</p>
-      <p><code>n8n</code> <code>Playwright</code> <code>PostgreSQL</code> <code>GraphQL</code></p>
-      <p><a href="https://github.com/imnikkl/n8nscrap"><b>Explore project &rarr;</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><sub><b>03 / MOBILE DEVELOPMENT</b></sub></p>
-      <h3><a href="https://github.com/imnikkl/gptwatch">GPT Watch</a></h3>
-      <p>A native <b>Android</b> application built with Kotlin, bringing AI interactions through Groq and DeepSeek to mobile.</p>
-      <p><code>Kotlin</code> <code>Android</code> <code>Groq</code> <code>DeepSeek</code></p>
-      <p><a href="https://github.com/imnikkl/gptwatch"><b>Explore project &rarr;</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <p><sub><b>04 / COMPUTER VISION</b></sub></p>
-      <h3><a href="https://github.com/imnikkl/pythonAPPS">Python CV Apps</a></h3>
-      <p>Computer-vision applications exploring <b>MediaPipe Hand Landmarker</b>, hand tracking, and machine learning.</p>
-      <p><code>Python</code> <code>MediaPipe</code> <code>Computer vision</code></p>
-      <p><a href="https://github.com/imnikkl/pythonAPPS"><b>Explore project &rarr;</b></a></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/imnikkl/telegram-bot">
+    <img src="https://raw.githubusercontent.com/imnikkl/imnikkl/main/assets/card-telegram-bot.svg" width="49%" alt="Telegram AI Lead Bot" />
+  </a>
+  <a href="https://github.com/imnikkl/n8nscrap">
+    <img src="https://raw.githubusercontent.com/imnikkl/imnikkl/main/assets/card-n8nscrap.svg" width="49%" alt="n8n Advanced Scraping" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/imnikkl/gptwatch">
+    <img src="https://raw.githubusercontent.com/imnikkl/imnikkl/main/assets/card-gptwatch.svg" width="49%" alt="GPT Watch" />
+  </a>
+  <a href="https://github.com/imnikkl/pythonAPPS">
+    <img src="https://raw.githubusercontent.com/imnikkl/imnikkl/main/assets/card-pythonapps.svg" width="49%" alt="Python CV Apps" />
+  </a>
+</p>
 
 <br />
 
